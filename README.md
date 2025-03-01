@@ -1,26 +1,10 @@
 <p align="center">
-    <i>🚀 <a href="https://keycloakify.dev">Svelte + Vite Keycloakify</a> v11 starter 🚀</i>
+    <i>🚀 A custom theme for keycloak creted with keycloakify 🚀</i>
     <br/>
     <br/>
 </p>
 
-This starter is based on Vite and Svelte.
-
-# Quick start
-
-```bash
-git clone https://github.com/keycloakify/keycloakify-starter-svelte
-cd keycloakify-starter-svelte
-yarn install # Or use an other package manager, just be sure to delete the yarn.lock if you use another package manager.
-```
-
-# Testing the theme locally
-
-[Documentation](https://docs.keycloakify.dev/testing-your-theme)
-
-# How to customize the theme
-
-[Documentation](https://docs.keycloakify.dev/customization-strategies)
+[Keycloakify Documentation](https://docs.keycloakify.dev/)
 
 # Building the theme
 
