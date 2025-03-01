@@ -11,7 +11,7 @@ export default defineConfig({
     svelte(),
     keycloakify({
       themeName: 'keycloakify-starter-svelte',
-      accountThemeImplementation: 'none',
+      accountThemeImplementation: 'Multi-Page',
       postBuild: async (buildContext) => {
         await buildEmailTheme({
           templatesSrcDirPath: join(import.meta.dirname, '/emails/templates'),
