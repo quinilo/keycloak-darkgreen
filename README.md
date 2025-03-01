@@ -4,6 +4,12 @@
     <br/>
 </p>
 
+<div style="display: flex; justify-content: center; width: 350px; margin: 0 auto;">
+
+![image](https://raw.githubusercontent.com/quinilo/keycloak-darkgreen/refs/heads/master/img/img.png)
+
+</div>
+
 [Keycloakify Documentation](https://docs.keycloakify.dev/)
 
 # Building the theme
