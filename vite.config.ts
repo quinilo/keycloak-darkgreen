@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [
     svelte(),
     keycloakify({
-      themeName: 'keycloakify-starter-svelte',
+      themeName: 'streamline',
       accountThemeImplementation: 'Multi-Page',
       postBuild: async (buildContext) => {
         await buildEmailTheme({
